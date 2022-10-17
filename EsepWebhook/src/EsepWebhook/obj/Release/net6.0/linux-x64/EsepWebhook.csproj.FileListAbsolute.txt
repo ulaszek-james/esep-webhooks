@@ -3,3 +3,16 @@
 /Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
 /Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.AssemblyInfo.cs
 /Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.deps.json
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Newtonsoft.Json.dll
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.csproj.CopyComplete
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.dll
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/refint/EsepWebhook.dll
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/ulaszek/Desktop/FALL 22/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll
